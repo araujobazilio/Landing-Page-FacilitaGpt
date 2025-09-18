@@ -22,7 +22,7 @@ function App() {
     return () => clearInterval(timer);
   }, []);
 
-  const whatsappLink = "https://w.app/facilitagpt";
+  const whatsappLink = "https://wa.me/5522992798329?text=Ola%2C%20quero%20saber%20mais%20sobre%20como%20agente%20de%20I.A%20no%20whatsapp!";
 
   return (
     <div className="min-h-screen bg-white">
